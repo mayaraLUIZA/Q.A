@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Criarpedido</name>
+   <name>criarpedido</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>8a7be1cd-01f7-4574-b33d-6b8de461bd7c</testCaseGuid>
+   <testCaseGuid>1b43158d-1134-4ca2-a07b-0821dd8f5e44</testCaseGuid>
 </TestCaseEntity>
