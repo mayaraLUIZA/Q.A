@@ -27,7 +27,7 @@ WebUI . NavigationToUrl ( ' http://172.16.1.21:7802/pt/pedidos ' )
 
 
 
-WebUI . setText (findTestObject ( ' Object Repository / Page_Dataplace - SFA / input_Nome de usurio ou endereo de email_email ' ), ' mayara.@dataplace.com.br ' )
+WebUI . setText (findTestObject ( ' Object Repository / Page_Dataplace - SFA / input_Nome de usurio ou endereo de email_email ' ), ' mayara4.@dataplace.com.br ' )
 
 
 
