@@ -11,8 +11,8 @@ import  com.kms.katalon.core.testcase.TestCase  as  TestCase
 import  com.kms.katalon.core.testdata.TestData  as  TestData
 import  com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords  as  TestNGKW
 import  com.kms.katalon.core.testobject.TestObject  as  TestObject
-import  com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords  como  WS
-import  com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords  como  WebUI
+import  com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords  as  WS
+import  com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords  as WebUI
 import  com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords  as  Windows
 import  internal.GlobalVariable  as  GlobalVariable
 import  org.openqa.selenium.Keys  as  Keys
@@ -27,7 +27,7 @@ WebUI . NavigationToUrl ( ' http://172.16.1.21:7802/pt/pedidos ' )
 
 
 
-WebUI . setText (findTestObject ( ' Object Repository / Page_Dataplace - SFA / input_Nome de usurio ou endereo de email_email ' ), ' mayara06.@dataplace.com.br ' )
+WebUI . setText (findTestObject ( ' Object Repository / Page_Dataplace - SFA / input_Nome de usurio ou endereo de email_email ' ), ' mayara06luiza.@dataplace.com.br ' )
 
 
 
