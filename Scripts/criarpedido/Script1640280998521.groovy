@@ -27,7 +27,7 @@ WebUI.navigateToUrl('http://172.16.1.21:7802/pt/pedidos')
 
 
 
-WebUI.setText(findTestObject('Object Repository/Page_Dataplace - SFA/input_Nome de usurio ou endereo de email_email'), 'ma.mariano@dataplace.com.br')
+WebUI.setText(findTestObject('Object Repository/Page_Dataplace - SFA/input_Nome de usurio ou endereo de email_email'), 'mKADNKA.mariano@dataplace.com.br')
 
 
 
